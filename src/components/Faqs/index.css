@@ -1,0 +1,28 @@
+.app-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 70vh;
+  width: 850px;
+}
+.main-heading {
+  color: #cb8805;
+  font-size: 45px;
+}
+
+.index-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}

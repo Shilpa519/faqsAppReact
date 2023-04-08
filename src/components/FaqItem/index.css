@@ -1,0 +1,30 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.question-btn-container {
+  display: flex;
+}
+
+.question {
+  margin-right: auto;
+  padding: 15px;
+  font-size: 15px;
+  color: #52606d;
+}
+
+.button {
+  background-color: transparent;
+  border-color: transparent;
+  padding: 15px;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.answer {
+  color: #9aa5b1;
+  padding-left: 15px;
+}
